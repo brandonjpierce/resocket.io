@@ -1,0 +1,16 @@
+{
+  "name": "resocket.io",
+  "version": "0.1.0",
+  "description": "socket.io mixin for React to make dealing with websocket simple and intuitive.",
+  "main": "resocket.io.js",
+  "scripts": {
+    "start": "webpack --progress --colors --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Pierce <brandon@brandonjpierce.com> (http://brandonjpierce.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "webpack": "^1.5.3"
+  }
+}
